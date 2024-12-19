@@ -26,12 +26,12 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VincentBardPerso/react-gh-pages.git
+   git clone https://github.com/VincentBardPerso/VincentBardPerso.github.io/tree/main
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd react-gh-pages
+   cd my-app
    ```
 
 3. Install dependencies:
