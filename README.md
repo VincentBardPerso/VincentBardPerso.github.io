@@ -6,7 +6,7 @@ Welcome to my personal resume website! This site showcases my resume and portfol
 
 To view my resume, please visit:
 
-**[https://vincentbardperso.github.io/react-gh-pages](https://vincentbardperso.github.io/react-gh-pages)**
+**[https://vincentbardperso.github.io](https://vincentbardperso.github.io)**
 
 ## Features
 - Clean and professional design.
